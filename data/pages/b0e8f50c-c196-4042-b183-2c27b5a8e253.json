@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-13T19:15:47.862Z",
+  "created_by": "JMU-AudiAnnotate",
+  "title": "Imported Event 2",
+  "slug": "imported-event-2",
+  "updated_at": "2024-11-13T19:15:47.862Z",
+  "updated_by": "JMU-AudiAnnotate",
+  "parent": "c0295e23-b25c-44ad-8c06-45109a472507",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "5dbd2423-1bb7-4fca-bb4a-28eb376d9a5f"
+  }
+}

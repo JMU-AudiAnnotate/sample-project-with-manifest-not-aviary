@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "dc06ce32-ee4d-4100-9c1e-f32c1ddcb0c7": {
+      "label": "AV File 3",
+      "file_url": "https://hrc.contentdm.oclc.org/digital/iiif/p15878coll1/56/full/full/0/default.jpg",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-11-13T19:15:47.661Z",
+  "created_by": "JMU-AudiAnnotate",
+  "item_type": "Audio",
+  "label": "Imported Event 3",
+  "updated_at": "2024-11-13T19:15:47.661Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
