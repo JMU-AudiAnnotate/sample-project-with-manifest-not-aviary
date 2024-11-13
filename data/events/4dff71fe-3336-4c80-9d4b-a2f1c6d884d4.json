@@ -12,7 +12,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "fancy text",
+          "bold": true,
+          "highlight": "#c91d1d",
+          "color": "#fbf9f9"
         }
       ]
     }
@@ -21,6 +24,6 @@
   "created_by": "JMU-AudiAnnotate",
   "item_type": "Audio",
   "label": "Imported Event 1",
-  "updated_at": "2024-11-13T19:15:47.661Z",
+  "updated_at": "2024-11-13T19:24:22.619Z",
   "updated_by": "JMU-AudiAnnotate"
 }
