@@ -14,7 +14,7 @@
     "slug": "sample-project-with-manifest-not-aviary",
     "creator": "JMU-AudiAnnotate",
     "authors": "sample-project",
-    "media_player": "avannotate",
+    "media_player": "aviary",
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
@@ -22,6 +22,8 @@
       "tags": []
     },
     "created_at": "2024-11-13T19:15:18.576Z",
-    "updated_at": "2024-11-13T19:15:18.576Z"
-  }
+    "updated_at": "2024-11-13T19:20:15.887Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
