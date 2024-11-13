@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Sample project with imported manifest (not Aviary)",
+    "description": "Sample project...",
+    "language": "en",
+    "slug": "sample-project-with-manifest-not-aviary",
+    "creator": "JMU-AudiAnnotate",
+    "authors": "sample-project",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-11-13T19:15:18.576Z",
+    "updated_at": "2024-11-13T19:15:18.576Z"
   }
 }

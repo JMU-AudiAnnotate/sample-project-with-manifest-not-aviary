@@ -1,0 +1,12 @@
+{
+  "content": [],
+  "created_at": "2024-11-13T19:15:18.597Z",
+  "created_by": "JMU-AudiAnnotate",
+  "title": "Sample project with imported manifest (not Aviary)",
+  "updated_at": "JMU-AudiAnnotate",
+  "updated_by": "2024-11-13T19:15:18.597Z",
+  "autogenerate": {
+    "enabled": true,
+    "type": "home"
+  }
+}
